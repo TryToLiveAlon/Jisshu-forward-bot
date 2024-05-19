@@ -14,8 +14,8 @@ main_buttons = [[
         InlineKeyboardButton('📜 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ', url='https://t.me/deathchatting_world'),
         InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ  ', url='https://t.me/deathking_botworld')
         ],[
-        InlineKeyboardButton('🙋‍♂️ ʜᴇʟᴘ', callback_data='help'),
-        InlineKeyboardButton('💁‍♂️ ᴀʙᴏᴜᴛ ', callback_data='about')
+        InlineKeyboardButton('❗ ʜᴇʟᴘ', callback_data='help'),
+        InlineKeyboardButton('🎓 ᴀʙᴏᴜᴛ ', callback_data='about')
         ],[
         InlineKeyboardButton('⚙️ sᴇᴛᴛɪɴɢs ⚙️', callback_data='settings#main')
         ]]
