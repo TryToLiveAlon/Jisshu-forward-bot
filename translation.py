@@ -44,7 +44,7 @@ class Translation(object):
 │ 🤖 Mʏ Nᴀᴍᴇ : <a href=http://t.me/DeathAutoForwarderBot>ғᴏʀᴡᴀʀᴅ ʙᴏᴛ</a>
 │ 👨‍💻 ᴅᴇᴠᴘʟᴏᴇʀ : <a href=https://t.me/TryToLiveAlon>ᴅᴇᴀᴛʜ ᴄᴏᴍᴍᴜɴɪᴛʏ</a>
 │ 🤖 ᴜᴘᴅᴀᴛᴇ  : <a href=https://t.me/deathking_botworld>❍⏤͟͞❰☠︎︎ 🅓𝐄𝐀𝐓𝐇 𝐖𝐎𝐑𝐋𝐃𓆪ꪾ</a>
-│ 📡 ʜᴏsᴛ ᴏɴ : <a href=https://heroku.com>ʜᴇᴛᴢɴᴇʀ</a>
+│ 📡 ʜᴏsᴛ ᴏɴ : <a href=https://heroku.com>ʜᴇʀᴏᴋᴜ</a>
 │ 🗣️ ʟᴀɴɢᴜᴀɢᴇ  : ᴘʏᴛʜᴏɴ 3 {python_version}
 │ 📚 ʟɪʙʀᴀʀʏ  : ᴘʏʀᴏɢʀᴀᴍ  
 ╰────────────────────⍟</b>"""
