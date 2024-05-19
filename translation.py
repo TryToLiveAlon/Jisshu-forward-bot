@@ -9,7 +9,7 @@ class Translation(object):
 ɪ ᴄᴀɴ ғᴏʀᴡᴀʀᴅ ᴀʟʟ ᴍᴇssᴀɢᴇ ғʀᴏᴍ ᴏɴᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀɴᴏᴛʜᴇʀ ᴄʜᴀɴɴᴇʟ</i> <b>➜ ᴡɪᴛʜ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs.
 ᴄʟɪᴄᴋ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ</b>
 
-<b>👨🏼‍💻 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='https://t.me/JISSHU_BOTS'>JISSHU BOTS</a>🥀</b>"""
+<b>👨🏼‍💻 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='https://t.me/TryToLiveAlon'>ᴅᴇᴀᴛʜ ᴄᴏᴍᴍᴜɴɪᴛʏ</a>🥀</b>"""
 
 
   HELP_TXT = """<b><u>🔆 HELP</b></u>
@@ -41,12 +41,11 @@ class Translation(object):
   
   ABOUT_TXT = """<b>╭──────❰ 🤖 Bot Details ❱──────〄
 │ 
-│ 🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/Jisshu_forward_bot>ғᴏʀᴡᴀʀᴅ ʙᴏᴛ</a>
-│ 👨‍💻 ᴅᴇᴠᴘʟᴏᴇʀ : <a href=https://t.me/IM_JISSHU>ZISHAN</a>
-│ 🤖 ᴜᴘᴅᴀᴛᴇ  : <a href=https://t.me/JISSHU_BOTS>JISSHU BOTS </a>
-│ 📡 ʜᴏsᴛ ᴏɴ : <a href=https://www.hetzner.com/>ʜᴇᴛᴢɴᴇʀ</a>
-│ 🗣️ ʟᴀɴɢᴜᴀɢᴇ  : ᴘʏᴛʜᴏɴ 3 
-{python_version}
+│ 🤖 Mʏ Nᴀᴍᴇ : <a href=http://t.me/DeathAutoForwarderBot>ғᴏʀᴡᴀʀᴅ ʙᴏᴛ</a>
+│ 👨‍💻 ᴅᴇᴠᴘʟᴏᴇʀ : <a href=https://t.me/TryToLiveAlon>ᴅᴇᴀᴛʜ ᴄᴏᴍᴍᴜɴɪᴛʏ</a>
+│ 🤖 ᴜᴘᴅᴀᴛᴇ  : <a href=https://t.me/deathking_botworld>❍⏤͟͞❰☠︎︎ 🅓𝐄𝐀𝐓𝐇 𝐖𝐎𝐑𝐋𝐃𓆪ꪾ</a>
+│ 📡 ʜᴏsᴛ ᴏɴ : <a href=https://heroku.com>ʜᴇᴛᴢɴᴇʀ</a>
+│ 🗣️ ʟᴀɴɢᴜᴀɢᴇ  : ᴘʏᴛʜᴏɴ 3 {python_version}
 │ 📚 ʟɪʙʀᴀʀʏ  : ᴘʏʀᴏɢʀᴀᴍ  
 ╰────────────────────⍟</b>"""
   
