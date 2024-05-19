@@ -39,17 +39,17 @@ class Translation(object):
 ► __if the **From Channel** is private your userbot must be member in there or your bot must need admin permission in there also__
 ► __Then use /forward to forward messages__</b>"""
   
-  ABOUT_TXT = """<b>╭──────❰ 🤖 Bot Details ❱──────〄
+  ABOUT_TXT = """<b>╭──────❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱──────〄
 │ 
 │ 🤖 Mʏ Nᴀᴍᴇ : <a href=http://t.me/DeathAutoForwarderBot>ғᴏʀᴡᴀʀᴅ ʙᴏᴛ</a>
 │ 👨‍💻 ᴅᴇᴠᴘʟᴏᴇʀ : <a href=https://t.me/TryToLiveAlon>ᴅᴇᴀᴛʜ ᴄᴏᴍᴍᴜɴɪᴛʏ</a>
 │ 🤖 ᴜᴘᴅᴀᴛᴇ  : <a href=https://t.me/deathking_botworld>❍⏤͟͞❰☠︎︎ 🅓𝐄𝐀𝐓𝐇 𝐖𝐎𝐑𝐋𝐃𓆪ꪾ</a>
-│ 📡 ʜᴏsᴛ ᴏɴ : <a href=https://heroku.com>ʜᴇʀᴏᴋᴜ</a>
+│ 📡 ʜᴏsᴛ ᴏɴ : ʜᴇʀᴏᴋᴜ
 │ 🗣️ ʟᴀɴɢᴜᴀɢᴇ  : ᴘʏᴛʜᴏɴ 3 {python_version}
 │ 📚 ʟɪʙʀᴀʀʏ  : ᴘʏʀᴏɢʀᴀᴍ  
 ╰────────────────────⍟</b>"""
   
-  STATUS_TXT = """<b>╭──────❪ 🤖 Bot Status ❫─────⍟
+  STATUS_TXT = """<b>╭──────❪ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❫─────⍟
 │
 ├👨 ᴜsᴇʀs  : {}
 │
