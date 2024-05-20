@@ -401,23 +401,23 @@ def main_buttons():
   buttons = [[
        InlineKeyboardButton('🤖 Bᴏᴛs',
                     callback_data=f'settings#bots'),
-       InlineKeyboardButton('🏷 Cʜᴀɴɴᴇʟs',
+       InlineKeyboardButton('📌 Cʜᴀɴɴᴇʟs',
                     callback_data=f'settings#channels')
        ],[
        InlineKeyboardButton('🖋️ Cᴀᴘᴛɪᴏɴ',
                     callback_data=f'settings#caption'),
-       InlineKeyboardButton('🗃 MᴏɴɢᴏDB',
+       InlineKeyboardButton('🗃️ MᴏɴɢᴏDB',
                     callback_data=f'settings#database')
        ],[
-       InlineKeyboardButton('🕵‍♀ Fɪʟᴛᴇʀs 🕵‍♀',
+       InlineKeyboardButton('🌟 Fɪʟᴛᴇʀs',
                     callback_data=f'settings#filters'),
-       InlineKeyboardButton('⏹ Bᴜᴛᴛᴏɴ',
+       InlineKeyboardButton('🔘 Bᴜᴛᴛᴏɴ',
                     callback_data=f'settings#button')
        ],[
-       InlineKeyboardButton('Exᴛʀᴀ Sᴇᴛᴛɪɴɢs 🧪',
+       InlineKeyboardButton('🎃 Exᴛʀᴀ Sᴇᴛᴛɪɴɢs',
                     callback_data='settings#nextfilters')
        ],[      
-       InlineKeyboardButton('⫷ Bᴀᴄᴋ', callback_data='back')
+       InlineKeyboardButton('⌫ Bᴀᴄᴋ', callback_data='back')
        ]]
   return InlineKeyboardMarkup(buttons)
 
@@ -566,7 +566,7 @@ async def next_filters_buttons(user_id):
        InlineKeyboardButton('♦️ keywords ♦️',
                     callback_data='settings#get_keyword')
        ],[
-       InlineKeyboardButton('⫷ back', 
+       InlineKeyboardButton('⌫ back', 
                     callback_data="settings#main")
        ]]
   return InlineKeyboardMarkup(buttons) 
