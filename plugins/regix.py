@@ -153,17 +153,17 @@ async def forward(bot, msg, m, sts, protect):
      await forward(bot, msg, m, sts, protect)
 
 PROGRESS = """
-📈 Percetage: {0} %
+📈 ᴘᴇʀᴄᴇɴᴛᴀɢᴇ: {0} %
 
-♻️ Feched: {1}
+♻️ ғᴇᴄʜᴇᴅ: {1}
 
-♻️ Fowarded: {2}
+♻️ ғᴏᴡᴀʀᴅᴇᴅ: {2}
 
-♻️ Remaining: {3}
+♻️ ʀᴇᴍᴀɪɴɪɴɢ: {3}
 
-♻️ Stataus: {4}
+♻️ ꜱᴛᴀᴛᴀᴜꜱ: {4}
 
-⏳️ ETA: {5}
+⏳️ ᴇᴛᴀ: {5}
 """
 
 async def msg_edit(msg, text, button=None, wait=None):
@@ -197,8 +197,8 @@ async def edit(msg, title, status, sts):
    text = TEXT.format(i.fetched, i.total_files, i.duplicate, i.deleted, i.skip, status, percentage, estimated_total_time, progress)
    if status in ["cancelled", "completed"]:
       button.append(
-         [InlineKeyboardButton('Support', url='https://t.me/deathchatting_world'),
-         InlineKeyboardButton('Updates', url='https://t.me/deathking_botworld')]
+         [InlineKeyboardButton('💝 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💝', url='https://t.me/deathchatting_world'),
+         InlineKeyboardButton('💠 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 💠', url='https://t.me/deathking_botworld')]
          )
    else:
       button.append([InlineKeyboardButton('• ᴄᴀɴᴄᴇʟ', 'terminate_frwd')])
